@@ -52,7 +52,6 @@ public class Smoke_FunctionalityAndroidStepDefintition extends BaseTest {
 			
 			launchApplication();
 			System.out.println("Application launched successfully");
-			System.out.println("Application launched successfully");
 			//((JavascriptExecutor) driver).executeScript("", driver.findElement(elementToClick));
 		}catch (Exception e) {
 			e.printStackTrace();
